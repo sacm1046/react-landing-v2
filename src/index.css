@@ -15,6 +15,9 @@ code {
 html{
   scroll-behavior: smooth;
 }
-/* #cards, #forms, #services, #home, #Service1, #Service2, #Service3, #Service4, #Service5, #Service6, #Service7, #Service8, #Service9, #Service10, #Service11{
-  scroll-margin-top: 77px;
-} */
+
+.fake-navbar{
+  width: 100%;
+  height: 54px;
+  background-color: green;
+}
